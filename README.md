@@ -1,2 +1,1 @@
-# carousel
-Created with CodeSandbox
+This is a restaurant page created with React.
